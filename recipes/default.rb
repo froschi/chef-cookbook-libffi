@@ -7,7 +7,7 @@ when "lucid"
   /
 when "precise"
   packages |= %w/
-    libffi5
+    libffi6
   /
 end
 
